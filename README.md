@@ -14,12 +14,6 @@ A personal website project showcasing a curated list of favorite books across th
 - 🐱 Fun and themed header image for a personal touch
 - 🧵 Categorized sections with unique icons
 
-## 📂 Project Structure
-index.html # Main HTML file
-about.html # About Website file
-books.html # List of books file
-style.css # CSS styles for layout and design
-images/ # Folder for book cover images and icons
 
 ## 🧠 Technologies Used
 
