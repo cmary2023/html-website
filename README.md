@@ -15,3 +15,15 @@ A personal website project showcasing a curated list of favorite books across th
 - 🧵 Categorized sections with unique icons
 
 ## 📂 Project Structure
+index.html # Main HTML file
+about.html # About Website file
+books.html # List of books file
+style.css # CSS styles for layout and design
+images/ # Folder for book cover images and icons
+
+## 🧠 Technologies Used
+
+- HTML5
+- CSS3
+- Basic inline and embedded styling
+- Image embedding and anchor linking
